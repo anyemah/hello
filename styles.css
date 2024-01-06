@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(252, 247, 242);
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 60%;
+  margin: 10px auto;
+  text-align: center;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+  max-width: 600px;
+  min-width: 400px;
+}
+fieldset {
+  border: none;
+}
+input {
+  width: 300px;
+}
+button {
+  margin-top: 0;
+}
+input,
+button {
+  margin: 10px;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+P {
+  font-weight: 800;
+}
